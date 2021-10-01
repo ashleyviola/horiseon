@@ -12,6 +12,8 @@ This is a website designed to promote Heriseon's online marketing services.
 - index.html 
 - style.css 
 
+### Visual Example of Header 
+![Horiseon Website Header](assets/images/header-image.png)
 
 ## Getting Started
 There are no special items that need to be added to run this program. It utilizes basic HTML & CSS. 
